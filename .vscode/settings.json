@@ -19,5 +19,10 @@
     "**/node_modules/*/**": true,
     "**/.turbo/**": true,
     "**/.next/**": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1C3319",
+    "titleBar.activeBackground": "#284723",
+    "titleBar.activeForeground": "#F8FBF7"
   }
 }
